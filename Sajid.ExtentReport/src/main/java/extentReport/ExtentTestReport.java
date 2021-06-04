@@ -1,3 +1,4 @@
+package extentReport;
 import org.testng.Assert;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterClass;
